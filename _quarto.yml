@@ -37,3 +37,4 @@ website:
       - section: "JSM"
         contents:
         - "jsm/jsm.ipynb"
+        - "jsm/asset.ipynb"
